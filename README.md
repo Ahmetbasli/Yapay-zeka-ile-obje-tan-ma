@@ -2,6 +2,8 @@
 
 Bu repo ile istediğimiz herhangi bir nesneyi algılayabiliriz
 
+Silah tespit etmek için eğittiğim ağırlıkları bu linkden indirebilirsiniz:[ağırlıklar](https://github.com/Ahmetbasli/Yapay-zeka-ile-obje-tespit-etme/releases)
+
 Aşağıdaki link ile hazırladığım Colab notebook üzerinden kodu inceleyebilir kendi verilerinizle modeli eğiterek 
 istediğiniz herhangi bir nesneyi tanıyan ve konumunu etiketleyen bir yapay zeka uygulaması yapabilirsiniz
 
